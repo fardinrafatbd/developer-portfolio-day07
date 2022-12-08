@@ -17,6 +17,7 @@ color: orange;
 }
 section{
     display: flex;
+    margin-bottom: 30px;
 }
 .link-button{
     text-decoration: none;
@@ -29,4 +30,9 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.right-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
